@@ -43,7 +43,7 @@ cd laravel-vagrant-sandbox
 sudo chmod -R 777 pymeERP
 ```
 
-**Usefull hints**
+**Useful tips**
 
 You can change the project name by manually renaming it's folder and changing the DocumentRoot in the default site config:
 
